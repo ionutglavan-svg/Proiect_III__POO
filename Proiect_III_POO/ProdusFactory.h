@@ -8,6 +8,8 @@
 #include "Ornament.h"
 #include "Buchet.h"
 
+
+//TEMPLATE
 class ProdusFactory {
 public:
 

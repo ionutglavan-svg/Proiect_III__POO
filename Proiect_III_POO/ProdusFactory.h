@@ -9,7 +9,7 @@
 #include "Buchet.h"
 
 
-//TEMPLATE
+//DESIGN PATTERN 1
 class ProdusFactory {
 public:
 

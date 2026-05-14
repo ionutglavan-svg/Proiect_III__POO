@@ -2,6 +2,7 @@
 #include <vector>
 #include <iostream>
 
+//TEMPLATE
 template <typename T>
 class Gestiune {
     std::vector<T> elemente;
